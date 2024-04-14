@@ -1,35 +1,24 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
-
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Hola a todos, soy
+# Mariana LucÃ­a Alpern
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Estudiante de la tecnicatura en programaciÃ³n de la **UNAHUR** desde el aÃ±o 2021 (ArranquÃ© con la de informÃ¡tica). 
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Para romper el hielo, acÃ¡ van algunos 
+## Datos curiosos sobre mÃ­ :smile:
+* Tengo 32 aÃ±os.
+* Vivo en Hurlingham.
+* Tengo una hija adorable que me mantiene en constante movimiento.
+* Odio lavar los platos.
+* Trabajo de administrativa en un Hogar con Centro de DÃ­a para personas con discapacidad intelectual. Es un trabajo que me llena de gratitud y me enseÃ±a cosas nuevas todos los dÃ­as.
+* Soy Maquilladora. 
+* El aÃ±o pasado no estuve activa con la facu (aunque lo intentÃ©) porque tuve muchos cambios en mi vida. Este aÃ±o me propuse retomar, dedicarle tiempo y aprender.
+
+AsÃ­ que ya saben un poco mÃ¡s sobre la persona detrÃ¡s de la pantalla. 
+Ã‰xitos a tod@s en la cursada :blush:
+
+
+
